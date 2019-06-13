@@ -1,0 +1,1 @@
+This is a **simple REST** server, which was written on lessons in the network to understand the operation of the main types of requests.
